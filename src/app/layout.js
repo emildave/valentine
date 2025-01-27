@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata = {
   title: "Valentines 2024",
   description: "Emil sent you a letter!",
-  metadataBase: new URL(''),
+  metadataBase: new URL('https://valentine-psi-three.vercel.app'),
   openGraph: {
     images: 'heart.png'
   }
