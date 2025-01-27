@@ -2,7 +2,7 @@ import "./globals.css";
 
 
 export const metadata = {
-  title: "Valentines 2024",
+  title: "Valentines",
   description: "Emil sent you a letter!",
   metadataBase: new URL('https://valentine-psi-three.vercel.app'),
   openGraph: {
